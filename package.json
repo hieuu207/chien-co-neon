@@ -1,0 +1,9 @@
+{
+  "name": "chien-co-neon-online",
+  "version": "1.0.0",
+  "description": "Chien Co Neon - Game Ban Tau Vu Tru Online",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
