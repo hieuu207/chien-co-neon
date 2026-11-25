@@ -5,7 +5,7 @@ const path = require('path');
 
 const PORT = process.env.PORT || 3000;
 const DATA_FILE = path.join(__dirname, 'leaderboard.json');
-const HTML_FILE = path.join(__dirname, 'public', 'index.html');
+const HTML_FILE = path.join(__dirname, 'index.html');
 
 function readBoard() {
   try {
